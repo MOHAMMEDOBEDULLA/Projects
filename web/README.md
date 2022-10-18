@@ -48,10 +48,10 @@ To run the project:
 
 ## :woman: Author
 
-**Rossiel Carranza**
+** mohammed obedulla**
 
-* Github: [@RossielCS](https://github.com/RossielCS)
-* Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza/)
+* Github: https://github.com/MOHAMMEDOBEDULLA
+* Linkedin: https://www.linkedin.com/in/mohammed-obedulla-905443178/
 
 ## 🤝 Contributing
 
